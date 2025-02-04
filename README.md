@@ -1,7 +1,7 @@
 ### Olá, sou Daniel Lucas
 
-- 🔭 Atualmente estou como desenvolvedor mobile com React Native
-- 🌱 Estudando Ánalise e Desenvolvimento de Sistemas na Fatec de Mogi das Cruzes
+- 🔭 Analista de sistemas
+- 🌱 Tecnológo em Análise e Desenvolvimento de Sistemas
  <div align="center">
     <a href="https://github.com/DANIEL-LUC">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIEL-LUC&layout=compact&langs_count=7&theme=tokyonight"/>
